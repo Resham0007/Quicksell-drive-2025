@@ -1,4 +1,4 @@
-![image](<img width="1371" alt="Screenshot 2024-09-29 at 13 02 53" src="https://github.com/user-attachments/assets/ab910a98-cc51-49c1-b2bb-bfc43c36f256">)
+![image](https://github.com/user-attachments/assets/cf5b6ce1-e94d-4745-ab1e-c98d9059238b)
 
 # Getting Started with Create React App
 
